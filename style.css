@@ -70,6 +70,7 @@ img{
 }
  #main #left_img{
     height: 200px;
+    width: 150px;
     position: absolute;
     top: 20%;
     left: 6%;
